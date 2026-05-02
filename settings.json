@@ -1,0 +1,32 @@
+{
+
+"token":"MTQ4Mzg5MjQ0NzUyNzU3MTUxNg.GubkoA.lKm7zQBcuUbXOhlZOmJCiewAB3SgKypBakww7w,
+
+
+"prefix":"-",
+
+
+"invite":"https://discord.gg/Zej5nW2cRG",
+
+
+"nameserver":"@StratusRaiding",
+
+
+"channelname":"StratusRaiding",
+
+"image":"",
+
+
+"numberchannelmax":"10000",
+
+"numbermessagemax":"100",
+
+"numberMPmax":"0",
+"noRaidServerID": "1500037462964306082",
+"logschannelid": "1500036619724656670",
+"logschannelid2": "1500036638150099064",
+"creditname":"Kracky",
+"helpRAIDcommand":"helper",
+
+"statusbot": "v$version$ | $servers$ guilds, $members$ members, $prefix$help"
+}
